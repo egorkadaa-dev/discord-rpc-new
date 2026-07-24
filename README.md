@@ -1,6 +1,3 @@
-> [!Important]
-> ### TIME IN DEVELOPMENT - soon...
-> The program is under development. It will be released soon.
 #  RPC Discord 
 
 <p align="center">
