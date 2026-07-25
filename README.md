@@ -39,6 +39,7 @@ You can support the project by giving :star: to this repository.
 * Take a regular photo for the app
 * Make the language English
 * Light mode
+  
 [🐞 BUG REPORT](https://github.com/egorkadaa/RPC-Discord/issues/new?template=bug_report.yml)
 
 ### Photos
