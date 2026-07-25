@@ -1,17 +1,17 @@
-Discord RPC Manager — Лицензионное соглашение с конечным пользователем (EULA)
+Discord RPC Adapter — Лицензионное соглашение с конечным пользователем (EULA)
 End-User License Agreement
 
 Copyright (c) 2026 egorkadaa (Турханов Егор Сергеевич). Все права защищены. / All rights reserved.
 
-Проект: Discord RPC Manager
-Официальный источник: https://github.com/egorkadaa/RPC-Discord/releases
+Проект: Discord RPC Adapter
+Официальный источник: https://github.com/egorkadaa/discord-rpc-adapter/releases
 
 ================================================================================
 РУССКАЯ ВЕРСИЯ (имеет преимущественную силу при разночтениях)
 ================================================================================
 
 Настоящее Соглашение заключается между вами («Пользователь») и правообладателем
-(«Автор») и регулирует использование программы Discord RPC Manager, включая
+(«Автор») и регулирует использование программы Discord RPC Adapter, включая
 исполняемые файлы, установщик, ресурсы и сопутствующие материалы («Программа»).
 
 Устанавливая, копируя или используя Программу, вы принимаете условия настоящего
@@ -43,7 +43,7 @@ Copyright (c) 2026 egorkadaa (Турханов Егор Сергеевич). В�
 3. ОФИЦИАЛЬНЫЙ ИСТОЧНИК РАСПРОСТРАНЕНИЯ
 
 3.1. Единственным официальным источником Программы является раздел Releases
-     репозитория: https://github.com/egorkadaa/RPC-Discord/releases
+     репозитория: https://github.com/egorkadaa/discord-rpc-adapter/releases
 3.2. Размещение Программы на сторонних сайтах, зеркалах, файлообменниках,
      торрент-трекерах, в каталогах ПО и иных ресурсах для публичного скачивания
      без письменного разрешения Автора ЗАПРЕЩЕНО. Разрешается передача файла
@@ -145,14 +145,14 @@ Copyright (c) 2026 egorkadaa (Турханов Егор Сергеевич). В�
       Соглашением, требует предварительного письменного разрешения Автора.
 
 Запросы на лицензирование, коммерческое использование и иные разрешения:
-https://github.com/egorkadaa/RPC-Discord/issues
+https://github.com/egorkadaa/discord-rpc-adapter/issues
 
 ================================================================================
 ENGLISH VERSION (informative translation)
 ================================================================================
 
 This End-User License Agreement ("Agreement") is between you ("User") and the
-copyright holder ("Author") and governs the use of Discord RPC Manager,
+copyright holder ("Author") and governs the use of Discord RPC Adapter,
 including its executables, installer, assets and accompanying materials
 ("Software"). By installing, copying or using the Software you accept this
 Agreement. If you do not agree, do not install or use the Software.
@@ -177,7 +177,7 @@ Agreement. If you do not agree, do not install or use the Software.
 
 3. OFFICIAL DISTRIBUTION SOURCE
    3.1. The sole official source is the Releases section of:
-        https://github.com/egorkadaa/RPC-Discord/releases
+        https://github.com/egorkadaa/discord-rpc-adapter/releases
    3.2. Uploading the Software to third-party sites, mirrors, file-hosting
         services, torrent trackers, software catalogues or other public download
         resources without the Author's written permission is PROHIBITED. Direct
@@ -263,4 +263,4 @@ Agreement. If you do not agree, do not install or use the Software.
           Author's prior written permission.
 
 Licensing, commercial use and permission requests:
-https://github.com/egorkadaa/RPC-Discord/issues
+https://github.com/egorkadaa/discord-rpc-adapter/issues
