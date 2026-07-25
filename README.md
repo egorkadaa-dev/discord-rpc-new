@@ -1,9 +1,8 @@
-# RPC Discord
+# discord-rpc-adapter
 
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/egorkadaa/RPC-Discord/total?style=for-the-badge&logo=github&color=949494" alt="Total Downloads" />
-  <img src="https://img.shields.io/github/downloads/egorkadaa/RPC-Discord/latest/total?style=for-the-badge&logo=github&color=949494" alt="Latest Release Downloads" />
-  <img src="https://img.shields.io/github/stars/egorkadaa/RPC-Discord?style=for-the-badge&logo=github&color=949494" alt="Stars" />
+  <img src="https://img.shields.io/github/downloads/egorkadaa/discord-rpc-adapter/total?style=for-the-badge&logo=github&color=949494" alt="Total Downloads" />
+  <img src="https://img.shields.io/github/stars/egorkadaa/discord-rpc-adapter?style=for-the-badge&logo=github&color=949494" alt="Stars" />
 </p>
 
 A convenient desktop application for managing Discord Rich Presence (RPC).  
@@ -13,7 +12,7 @@ Allows you to configure and display custom activity in Discord.
 
 ## How to use
 
-1. Download the latest release from [Releases](https://github.com/egorkadaa/RPC-Discord/releases)
+1. Download the latest release from [Releases](https://github.com/egorkadaa/discord-rpc-adapter/releases)
 2. Install and launch
 3. Go to [Discord Developer Portal](https://discord.com/developers/applications)
 4. Create an application → copy **Client ID** (Application ID)
@@ -41,7 +40,7 @@ Allows you to configure and display custom activity in Discord.
 * Make the language English
 * Light mode
 
-[🐞 BUG REPORT](https://github.com/egorkadaa/RPC-Discord/issues/new?template=bug_report.yml)
+[🐞 BUG REPORT](https://github.com/egorkadaa/discord-rpc-adapter/issues/new?template=bug_report.yml)
 
 ### Photos
 
