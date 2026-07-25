@@ -1,0 +1,266 @@
+Discord RPC Adapter — Лицензионное соглашение с конечным пользователем (EULA)
+End-User License Agreement
+
+Copyright (c) 2026 egorkadaa. Все права защищены. / All rights reserved.
+
+Проект: Discord RPC Adapter
+Официальный источник: https://github.com/egorkadaa/discord-rpc-adapter/releases
+
+================================================================================
+РУССКАЯ ВЕРСИЯ (имеет преимущественную силу при разночтениях)
+================================================================================
+
+Настоящее Соглашение заключается между вами («Пользователь») и правообладателем
+(«Автор») и регулирует использование программы Discord RPC Adapter, включая
+исполняемые файлы, установщик, ресурсы и сопутствующие материалы («Программа»).
+
+Устанавливая, копируя или используя Программу, вы принимаете условия настоящего
+Соглашения. Если вы не согласны с ними — не устанавливайте и не используйте
+Программу.
+
+1. СТАТУС ПРОГРАММЫ
+
+1.1. Программа НЕ является программой с открытым исходным кодом.
+1.2. Исходный код Программы закрыт, не публикуется и не передаётся Пользователю
+     ни в каком виде. Распространяется исключительно скомпилированная (бинарная)
+     сборка.
+1.3. Программа предоставляется по лицензии, а НЕ продаётся. Все права
+     собственности и интеллектуальные права на Программу принадлежат Автору.
+
+2. ПРЕДОСТАВЛЯЕМЫЕ ПРАВА
+
+Автор безвозмездно предоставляет Пользователю неисключительное, отзывное,
+непередаваемое право:
+
+2.1. Устанавливать и использовать Программу на неограниченном количестве
+     принадлежащих Пользователю устройств, в личных и коммерческих целях.
+2.2. Свободно передавать и распространять Программу третьим лицам —
+     ИСКЛЮЧИТЕЛЬНО в виде оригинального, неизменённого установщика или
+     портативного файла, полученного из официального источника (п. 3), вместе
+     с текстом настоящей лицензии и с сохранением указания авторства.
+2.3. Создавать резервные копии для личного использования.
+
+3. ОФИЦИАЛЬНЫЙ ИСТОЧНИК РАСПРОСТРАНЕНИЯ
+
+3.1. Единственным официальным источником Программы является раздел Releases
+     репозитория: https://github.com/egorkadaa/discord-rpc-adapter/releases
+3.2. Размещение Программы на сторонних сайтах, зеркалах, файлообменниках,
+     торрент-трекерах, в каталогах ПО и иных ресурсах для публичного скачивания
+     без письменного разрешения Автора ЗАПРЕЩЕНО. Разрешается передача файла
+     напрямую (например, знакомым) и публикация ссылки на официальный источник.
+3.3. Автор не несёт ответственности за сборки, полученные из неофициальных
+     источников. Такие сборки могут содержать вредоносный код.
+
+4. ОГРАНИЧЕНИЯ
+
+Пользователю ЗАПРЕЩАЕТСЯ:
+
+4.1. Продавать, сдавать в аренду, в прокат, в лизинг, сублицензировать
+     Программу, а также взимать любую плату за её предоставление, включая плату
+     за «доступ», «поддержку» или включение в состав платных наборов ПО.
+4.2. Модифицировать, адаптировать, переводить, создавать производные
+     произведения на основе Программы.
+4.3. Осуществлять декомпиляцию, дизассемблирование, обратную разработку
+     (reverse engineering), деобфускацию, извлечение исходного кода или иным
+     способом пытаться получить доступ к исходному коду и внутренней структуре
+     Программы, за исключением случаев, когда такие действия прямо разрешены
+     императивными нормами применимого законодательства и только в объёме,
+     этими нормами допускаемом.
+4.4. Удалять, скрывать или изменять уведомления об авторских правах, товарные
+     знаки, наименование Программы, указание авторства и текст настоящей
+     лицензии.
+4.5. Осуществлять ребрендинг Программы: выдавать её за собственную разработку,
+     распространять под иным названием, логотипом или от имени иного лица.
+4.6. Обходить, отключать или вмешиваться в работу механизмов защиты, проверки
+     обновлений и иных технических средств защиты Программы.
+4.7. Использовать Программу для нарушения Условий обслуживания Discord
+     (Discord Terms of Service) или иного противоправного поведения.
+
+5. КОММЕРЧЕСКИЕ ВЕРСИИ
+
+5.1. На текущий момент Программа распространяется бесплатно.
+5.2. Автор оставляет за собой право в любой момент выпускать платные версии,
+     платные редакции, дополнительные платные функции или подписочные сервисы,
+     связанные с Программой.
+5.3. Бесплатное распространение текущей версии не создаёт у Пользователя каких-
+     либо прав на будущие версии Программы, на её платные функции или на
+     бесплатное их получение. Такие версии и функции могут регулироваться
+     отдельными лицензионными условиями.
+5.4. Автор вправе в любой момент прекратить бесплатное распространение,
+     изменить условия распространения, приостановить поддержку или прекратить
+     развитие Программы без предварительного уведомления.
+
+6. ОБНОВЛЕНИЯ И СБОР ДАННЫХ
+
+6.1. Программа может обращаться к GitHub API для проверки наличия новых версий.
+6.2. Настройки, пресеты и введённые Пользователем данные хранятся локально на
+     устройстве Пользователя и Автору не передаются.
+6.3. Обновления, дополнения и новые версии Программы регулируются условиями
+     настоящего Соглашения, если к ним не приложены иные лицензионные условия.
+
+7. КОМПОНЕНТЫ ТРЕТЬИХ ЛИЦ
+
+7.1. Программа включает библиотеки и компоненты третьих лиц (в том числе
+     Electron, Node.js, discord-rpc и другие), распространяемые на условиях
+     собственных лицензий с открытым исходным кодом.
+7.2. Настоящее Соглашение НЕ ограничивает права Пользователя, предоставленные
+     лицензиями таких компонентов, в отношении самих этих компонентов. Права на
+     оригинальный код Программы регулируются настоящим Соглашением.
+7.3. Discord является товарным знаком Discord Inc. Программа не аффилирована
+     с Discord Inc., не одобрена и не поддерживается ею.
+
+8. ОТКАЗ ОТ ГАРАНТИЙ
+
+ПРОГРАММА ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ» («AS IS»), БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, ЯВНО
+ВЫРАЖЕННЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ, ГАРАНТИИ
+ТОВАРНОЙ ПРИГОДНОСТИ, ПРИГОДНОСТИ ДЛЯ КОНКРЕТНОЙ ЦЕЛИ, БЕСПЕРЕБОЙНОЙ ИЛИ
+БЕЗОШИБОЧНОЙ РАБОТЫ И ОТСУТСТВИЯ НАРУШЕНИЙ ПРАВ ТРЕТЬИХ ЛИЦ. АВТОР НЕ
+ГАРАНТИРУЕТ СОВМЕСТИМОСТЬ ПРОГРАММЫ С ЛЮБЫМИ ВЕРСИЯМИ DISCORD.
+
+9. ОГРАНИЧЕНИЕ ОТВЕТСТВЕННОСТИ
+
+НИ ПРИ КАКИХ ОБСТОЯТЕЛЬСТВАХ АВТОР НЕ НЕСЁТ ОТВЕТСТВЕННОСТИ ЗА ЛЮБЫЕ ПРЯМЫЕ,
+КОСВЕННЫЕ, СЛУЧАЙНЫЕ, ОСОБЫЕ ИЛИ ШТРАФНЫЕ УБЫТКИ, УПУЩЕННУЮ ВЫГОДУ, УТРАТУ
+ДАННЫХ, БЛОКИРОВКУ ИЛИ ОГРАНИЧЕНИЕ УЧЁТНОЙ ЗАПИСИ DISCORD, ВОЗНИКШИЕ В
+РЕЗУЛЬТАТЕ ИСПОЛЬЗОВАНИЯ ИЛИ НЕВОЗМОЖНОСТИ ИСПОЛЬЗОВАНИЯ ПРОГРАММЫ, ДАЖЕ ЕСЛИ
+АВТОР БЫЛ УВЕДОМЛЁН О ВОЗМОЖНОСТИ ТАКИХ УБЫТКОВ. ПОЛЬЗОВАТЕЛЬ ИСПОЛЬЗУЕТ
+ПРОГРАММУ НА СВОЙ СТРАХ И РИСК.
+
+10. ПРЕКРАЩЕНИЕ ДЕЙСТВИЯ
+
+10.1. Действие настоящей лицензии прекращается автоматически и без уведомления
+      при нарушении Пользователем любого из её условий.
+10.2. При прекращении действия лицензии Пользователь обязан прекратить
+      использование Программы, удалить все её копии и прекратить её
+      распространение.
+10.3. Разделы 4, 8, 9 сохраняют силу после прекращения действия лицензии.
+
+11. ПРОЧИЕ УСЛОВИЯ
+
+11.1. Настоящее Соглашение составляет полное соглашение сторон в отношении
+      Программы.
+11.2. Признание отдельного положения недействительным не влечёт
+      недействительности остальных положений.
+11.3. Любое использование Программы способом, прямо не разрешённым настоящим
+      Соглашением, требует предварительного письменного разрешения Автора.
+
+Запросы на лицензирование, коммерческое использование и иные разрешения:
+https://github.com/egorkadaa/discord-rpc-adapter/issues
+
+================================================================================
+ENGLISH VERSION (informative translation)
+================================================================================
+
+This End-User License Agreement ("Agreement") is between you ("User") and the
+copyright holder ("Author") and governs the use of Discord RPC Adapter,
+including its executables, installer, assets and accompanying materials
+("Software"). By installing, copying or using the Software you accept this
+Agreement. If you do not agree, do not install or use the Software.
+
+1. STATUS OF THE SOFTWARE
+   1.1. The Software is NOT open source.
+   1.2. The source code is closed, is not published and is not provided to the
+        User in any form. Only the compiled (binary) build is distributed.
+   1.3. The Software is licensed, not sold. All title and intellectual property
+        rights in the Software remain with the Author.
+
+2. GRANT OF RIGHTS
+   The Author grants the User, free of charge, a non-exclusive, revocable,
+   non-transferable right to:
+   2.1. Install and use the Software on any number of devices owned by the User,
+        for personal and commercial purposes.
+   2.2. Freely share and redistribute the Software to third parties SOLELY as
+        the original, unmodified installer or portable file obtained from the
+        official source (Section 3), together with this license text and with
+        attribution preserved.
+   2.3. Make backup copies for personal use.
+
+3. OFFICIAL DISTRIBUTION SOURCE
+   3.1. The sole official source is the Releases section of:
+        https://github.com/egorkadaa/discord-rpc-adapter/releases
+   3.2. Uploading the Software to third-party sites, mirrors, file-hosting
+        services, torrent trackers, software catalogues or other public download
+        resources without the Author's written permission is PROHIBITED. Direct
+        person-to-person sharing and linking to the official source are allowed.
+   3.3. The Author is not responsible for builds obtained from unofficial
+        sources; such builds may contain malicious code.
+
+4. RESTRICTIONS
+   The User MUST NOT:
+   4.1. Sell, rent, lease, lend, sublicense the Software, or charge any fee for
+        providing it, including fees for "access", "support" or inclusion in
+        paid software bundles.
+   4.2. Modify, adapt, translate or create derivative works of the Software.
+   4.3. Decompile, disassemble, reverse engineer, deobfuscate, extract source
+        code from, or otherwise attempt to derive the source code or internal
+        structure of the Software, except to the extent such acts are expressly
+        permitted by mandatory provisions of applicable law and only to the
+        extent permitted thereby.
+   4.4. Remove, obscure or alter copyright notices, trademarks, the product
+        name, attribution or this license text.
+   4.5. Rebrand the Software: present it as their own work, or distribute it
+        under a different name, logo or identity.
+   4.6. Circumvent, disable or interfere with protection mechanisms, update
+        checks or other technical protection measures of the Software.
+   4.7. Use the Software to violate the Discord Terms of Service or for any
+        other unlawful conduct.
+
+5. COMMERCIAL VERSIONS
+   5.1. The Software is currently distributed free of charge.
+   5.2. The Author reserves the right to release, at any time, paid versions,
+        paid editions, additional paid features or subscription services related
+        to the Software.
+   5.3. Free distribution of the current version grants the User no rights to
+        future versions, to paid features, or to receive them free of charge.
+        Such versions and features may be governed by separate license terms.
+   5.4. The Author may at any time discontinue free distribution, change the
+        distribution terms, suspend support or cease development of the Software
+        without prior notice.
+
+6. UPDATES AND DATA
+   6.1. The Software may contact the GitHub API to check for new versions.
+   6.2. Settings, presets and user-entered data are stored locally on the User's
+        device and are not transmitted to the Author.
+   6.3. Updates, add-ons and new versions are governed by this Agreement unless
+        accompanied by different license terms.
+
+7. THIRD-PARTY COMPONENTS
+   7.1. The Software includes third-party libraries and components (including
+        Electron, Node.js, discord-rpc and others) distributed under their own
+        open-source licenses.
+   7.2. This Agreement does NOT limit the User's rights granted by those
+        licenses with respect to those components themselves. Rights in the
+        Author's original code are governed by this Agreement.
+   7.3. Discord is a trademark of Discord Inc. The Software is not affiliated
+        with, endorsed or supported by Discord Inc.
+
+8. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, UNINTERRUPTED OR ERROR-FREE OPERATION AND
+   NONINFRINGEMENT. THE AUTHOR DOES NOT WARRANT COMPATIBILITY WITH ANY VERSION
+   OF DISCORD.
+
+9. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+   SPECIAL OR PUNITIVE DAMAGES, LOST PROFITS, LOSS OF DATA, OR SUSPENSION OR
+   RESTRICTION OF A DISCORD ACCOUNT, ARISING FROM THE USE OF OR INABILITY TO USE
+   THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE USER
+   USES THE SOFTWARE AT THEIR OWN RISK.
+
+10. TERMINATION
+    10.1. This license terminates automatically and without notice if the User
+          breaches any of its terms.
+    10.2. Upon termination the User must stop using the Software, delete all
+          copies and cease distributing it.
+    10.3. Sections 4, 8 and 9 survive termination.
+
+11. MISCELLANEOUS
+    11.1. This Agreement constitutes the entire agreement regarding the Software.
+    11.2. If any provision is held invalid, the remaining provisions stay in
+          full force.
+    11.3. Any use not expressly permitted by this Agreement requires the
+          Author's prior written permission.
+
+Licensing, commercial use and permission requests:
+https://github.com/egorkadaa/discord-rpc-adapter/issues
