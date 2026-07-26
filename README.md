@@ -1,4 +1,4 @@
-# discord-rpc-adapter
+# discord rpc adapter
 
 <p align="center">
   <img src="https://img.shields.io/github/downloads/egorkadaa/discord-rpc-adapter/total?style=for-the-badge&logo=github&color=949494" alt="Total Downloads" />
